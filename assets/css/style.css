@@ -10,10 +10,6 @@ body {
     background-color: #d9dcd6;
     margin: 0px 10px 0px 10px;
 }
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 /* budy end*/
 /*header style*/
 header {
@@ -47,6 +43,8 @@ header nav ul {
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
+    color: #ffffff;
+    text-decoration: none;
 }
 /*header style end*/
 /*hero style start*/
