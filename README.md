@@ -6,7 +6,7 @@ Refactoring code.
 ## Built with 
 * HTML
 * CSS
-<<<<<<< HEAD
+
 # Website
 https://niko09es.github.io/Refactor-master/
 
